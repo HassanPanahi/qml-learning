@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MButton.qml</file>
+        <file>audiobar.qml</file>
+        <file>MyEditor.qml</file>
+        <file>Draggable.qml</file>
+        <file>KeyAttached.qml</file>
+        <file>MyKeyNavigation.qml</file>
+    </qresource>
+</RCC>
